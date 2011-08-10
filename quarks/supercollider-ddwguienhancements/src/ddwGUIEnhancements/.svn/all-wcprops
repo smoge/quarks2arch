@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/1944/dewdrop_lib/ddwGUIEnhancements
+END
+ResizeFlowWindow.sc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/quarks/!svn/ver/1944/dewdrop_lib/ddwGUIEnhancements/ResizeFlowWindow.sc
+END
+cross-platform-recursiveResize.sc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/quarks/!svn/ver/1944/dewdrop_lib/ddwGUIEnhancements/cross-platform-recursiveResize.sc
+END
+fixedwidthflowview.sc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/quarks/!svn/ver/1058/dewdrop_lib/ddwGUIEnhancements/fixedwidthflowview.sc
+END
+DualNumberEditor.sc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/quarks/!svn/ver/354/dewdrop_lib/ddwGUIEnhancements/DualNumberEditor.sc
+END
+HJHObjectGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/quarks/!svn/ver/1071/dewdrop_lib/ddwGUIEnhancements/HJHObjectGui.sc
+END
+TempoClockGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/quarks/!svn/ver/1944/dewdrop_lib/ddwGUIEnhancements/TempoClockGui.sc
+END
+fixedwidthmultipagelayout.sc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/quarks/!svn/ver/538/dewdrop_lib/ddwGUIEnhancements/fixedwidthmultipagelayout.sc
+END
+Document-scanFor.sc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/quarks/!svn/ver/354/dewdrop_lib/ddwGUIEnhancements/Document-scanFor.sc
+END
+DualNumberEditorGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/quarks/!svn/ver/354/dewdrop_lib/ddwGUIEnhancements/DualNumberEditorGui.sc
+END
+TempoClock-isRunning.sc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/quarks/!svn/ver/1089/dewdrop_lib/ddwGUIEnhancements/TempoClock-isRunning.sc
+END
+ToggleTextField.sc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/quarks/!svn/ver/1058/dewdrop_lib/ddwGUIEnhancements/ToggleTextField.sc
+END

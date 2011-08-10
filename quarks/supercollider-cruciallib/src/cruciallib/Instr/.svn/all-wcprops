@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/quarks/!svn/ver/1855/cruciallib/Instr
+END
+instrSupport.sc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/1790/cruciallib/Instr/instrSupport.sc
+END
+Instr.sc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/1854/cruciallib/Instr/Instr.sc
+END
+InstrSpawner.sc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/1436/cruciallib/Instr/InstrSpawner.sc
+END
+Patch.sc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/1760/cruciallib/Instr/Patch.sc
+END
+Interface.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1436/cruciallib/Instr/Interface.sc
+END
+MoreSpecs.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1853/cruciallib/Instr/MoreSpecs.sc
+END
+InstrGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/1854/cruciallib/Instr/InstrGui.sc
+END
+InstrSynthDef.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1855/cruciallib/Instr/InstrSynthDef.sc
+END
+PatchGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/1739/cruciallib/Instr/PatchGui.sc
+END
+ControlPrototypes.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/1436/cruciallib/Instr/ControlPrototypes.sc
+END

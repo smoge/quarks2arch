@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/1841/cruciallib/ServerTools
+END
+OSCResponderQueue.sc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/quarks/!svn/ver/1436/cruciallib/ServerTools/OSCResponderQueue.sc
+END
+ServerGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1841/cruciallib/ServerTools/ServerGui.sc
+END
+ServerLogGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/quarks/!svn/ver/1739/cruciallib/ServerTools/ServerLogGui.sc
+END
+SharedBus.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1436/cruciallib/ServerTools/SharedBus.sc
+END
+BusPool.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1745/cruciallib/ServerTools/BusPool.sc
+END
+gui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1737/cruciallib/ServerTools/gui.sc
+END
+AnnotatedDebugNodeWatcher.sc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/quarks/!svn/ver/1737/cruciallib/ServerTools/AnnotatedDebugNodeWatcher.sc
+END
+ServerLog.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1841/cruciallib/ServerTools/ServerLog.sc
+END

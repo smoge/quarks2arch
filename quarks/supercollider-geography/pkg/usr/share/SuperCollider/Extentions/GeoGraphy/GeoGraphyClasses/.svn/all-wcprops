@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/1757/GeoGraphy/GeoGraphyClasses
+END
+geoAudio.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/310/GeoGraphy/GeoGraphyClasses/geoAudio.sc
+END
+imageView.sc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/quarks/!svn/ver/1520/GeoGraphy/GeoGraphyClasses/imageView.sc
+END
+graphParser.sc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/quarks/!svn/ver/369/GeoGraphy/GeoGraphyClasses/graphParser.sc
+END
+runnerGUI.sc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/quarks/!svn/ver/310/GeoGraphy/GeoGraphyClasses/runnerGUI.sc
+END
+geoListener.sc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/quarks/!svn/ver/1757/GeoGraphy/GeoGraphyClasses/geoListener.sc
+END
+graph.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1645/GeoGraphy/GeoGraphyClasses/graph.sc
+END
+painter.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/1641/GeoGraphy/GeoGraphyClasses/painter.sc
+END
+soundscape.sc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/quarks/!svn/ver/1646/GeoGraphy/GeoGraphyClasses/soundscape.sc
+END
+geoClock.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/310/GeoGraphy/GeoGraphyClasses/geoClock.sc
+END
+getLineExt.sc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/quarks/!svn/ver/768/GeoGraphy/GeoGraphyClasses/getLineExt.sc
+END
+graphGenerator.sc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/quarks/!svn/ver/310/GeoGraphy/GeoGraphyClasses/graphGenerator.sc
+END
+grapher.sc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/quarks/!svn/ver/310/GeoGraphy/GeoGraphyClasses/grapher.sc
+END
+runner.sc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/quarks/!svn/ver/1521/GeoGraphy/GeoGraphyClasses/runner.sc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/quarks/!svn/ver/1820/autogui/Classes
+END
+autoguiExt.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1452/autogui/Classes/autoguiExt.sc
+END
+synthDefAutogui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/1820/autogui/Classes/synthDefAutogui.sc
+END
+ArrayWarp.sc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/1348/autogui/Classes/ArrayWarp.sc
+END
+synthDefStorage.sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/1340/autogui/Classes/synthDefStorage.sc
+END
+synthDefStorageExt.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/1417/autogui/Classes/synthDefStorageExt.sc
+END

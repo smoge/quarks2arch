@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/quarks/!svn/ver/1857/cxpatterns/Instr
+END
+degreeStream.scd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/6/cxpatterns/Instr/degreeStream.scd
+END
+freqStream.scd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/432/cxpatterns/Instr/freqStream.scd
+END
+minmax.scd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/501/cxpatterns/Instr/minmax.scd
+END
+playerFreq.scd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/quarks/!svn/ver/1672/cxpatterns/Instr/playerFreq.scd
+END
+trigPlayer.scd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/432/cxpatterns/Instr/trigPlayer.scd
+END
+scaleStream.scd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/1857/cxpatterns/Instr/scaleStream.scd
+END
+deltaStream.scd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/quarks/!svn/ver/432/cxpatterns/Instr/deltaStream.scd
+END
+pchRatioStream.scd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/432/cxpatterns/Instr/pchRatioStream.scd
+END
+pchRatioPlayer.scd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/6/cxpatterns/Instr/pchRatioPlayer.scd
+END

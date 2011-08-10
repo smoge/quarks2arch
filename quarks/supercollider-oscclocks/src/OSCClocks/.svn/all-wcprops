@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/quarks/!svn/ver/190/OSCClocks
+END
+SlaveTempoClock.sc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/190/OSCClocks/SlaveTempoClock.sc
+END
+OSCClockSender.sc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/188/OSCClocks/OSCClockSender.sc
+END
+OSCClockReceiver.sc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/190/OSCClocks/OSCClockReceiver.sc
+END

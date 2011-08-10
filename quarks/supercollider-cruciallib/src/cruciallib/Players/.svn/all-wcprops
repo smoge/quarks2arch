@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/quarks/!svn/ver/1854/cruciallib/Players
+END
+PlayerEfxFunc.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerEfxFunc.sc
+END
+SimpleTrigger.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/SimpleTrigger.sc
+END
+PlayerBasicOps.sc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerBasicOps.sc
+END
+AbstractPlayer.sc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/quarks/!svn/ver/1854/cruciallib/Players/AbstractPlayer.sc
+END
+Silence.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/Silence.sc
+END
+SimpleTriggerGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/SimpleTriggerGui.sc
+END
+SimplePlayerEffect.sc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/quarks/!svn/ver/1745/cruciallib/Players/SimplePlayerEffect.sc
+END
+PlayerBasicOpsGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerBasicOpsGui.sc
+END
+AbstractPlayerGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/quarks/!svn/ver/1745/cruciallib/Players/AbstractPlayerGui.sc
+END
+PlayerPool.sc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerPool.sc
+END
+pathUtilities.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1745/cruciallib/Players/pathUtilities.sc
+END
+KrPlayer.sc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/KrPlayer.sc
+END
+PlayerPoolGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerPoolGui.sc
+END
+HasSubject.sc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/HasSubject.sc
+END
+Patching.sc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/1790/cruciallib/Players/Patching.sc
+END
+PlayerMixer.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerMixer.sc
+END
+TempoPlayer.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/TempoPlayer.sc
+END
+BeatClockPlayer.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/BeatClockPlayer.sc
+END
+PlayerSocket.sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerSocket.sc
+END
+AudioInPlayer.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/AudioInPlayer.sc
+END
+PlayerMixerGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/PlayerMixerGui.sc
+END
+BeatClockPlayerGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/quarks/!svn/ver/1436/cruciallib/Players/BeatClockPlayerGui.sc
+END

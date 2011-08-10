@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/quarks/!svn/ver/1838/cruciallib/Scheduling
+END
+OSCSched.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1838/cruciallib/Scheduling/OSCSched.sc
+END
+TempoBus.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1745/cruciallib/Scheduling/TempoBus.sc
+END
+tempoClock.sc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/quarks/!svn/ver/1436/cruciallib/Scheduling/tempoClock.sc
+END
+Position.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1436/cruciallib/Scheduling/Position.sc
+END
+Tempo.sc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/1436/cruciallib/Scheduling/Tempo.sc
+END
+TempoGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1739/cruciallib/Scheduling/TempoGui.sc
+END

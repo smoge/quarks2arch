@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/quarks/!svn/ver/1412/Conductor/classes
+END
+extView.sc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/854/Conductor/classes/extView.sc
+END
+extArray.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1406/Conductor/classes/extArray.sc
+END
+Conductor.sc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/1403/Conductor/classes/Conductor.sc
+END
+extConductor.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1410/Conductor/classes/extConductor.sc
+END
+OSCEvent.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/1205/Conductor/classes/OSCEvent.sc
+END
+extNodeProxy.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/1412/Conductor/classes/extNodeProxy.sc
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr
+END
+reverbs.scd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/reverbs.scd
+END
+envmaker.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/500/cxaudio/Instr/envmaker.scd
+END
+klankperc.scd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr/klankperc.scd
+END
+modulation.scd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/1746/cxaudio/Instr/modulation.scd
+END
+breakcutter.scd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/500/cxaudio/Instr/breakcutter.scd
+END
+spawnEvents.scd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/spawnEvents.scd
+END
+minimoog.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/minimoog.scd
+END
+splits.scd
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/splits.scd
+END
+percOrc4.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/percOrc4.scd
+END
+percOrc5.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/percOrc5.scd
+END
+oscillOrcKr.scd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/oscillOrcKr.scd
+END
+synths.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/synths.scd
+END
+gateTrigs.scd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr/gateTrigs.scd
+END
+cymbals.scd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/cymbals.scd
+END
+bassEfx.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/1746/cxaudio/Instr/bassEfx.scd
+END
+slews.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr/slews.scd
+END
+metal.scd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/metal.scd
+END
+krFilters.scd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/krFilters.scd
+END
+dynamics.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/dynamics.scd
+END
+filters.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr/filters.scd
+END
+samplerf.scd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr/samplerf.scd
+END
+oscillOrc2.scd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/oscillOrc2.scd
+END
+trackers.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/trackers.scd
+END
+remover.scd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/remover.scd
+END
+surf.scd
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/surf.scd
+END
+toneknob.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/toneknob.scd
+END
+allBands.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/allBands.scd
+END
+sampleEfx.scd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/1746/cxaudio/Instr/sampleEfx.scd
+END
+pvfft.scd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/pvfft.scd
+END
+liveeq.scd
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/quarks/!svn/ver/5/cxaudio/Instr/liveeq.scd
+END
+oscillOrc.scd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/1790/cxaudio/Instr/oscillOrc.scd
+END
+mastering.scd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/mastering.scd
+END
+timeDomainEfx.scd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/626/cxaudio/Instr/timeDomainEfx.scd
+END
+binOps.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/binOps.scd
+END
+dyna.scd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/quarks/!svn/ver/1746/cxaudio/Instr/dyna.scd
+END
+trails.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/trails.scd
+END
+kiks.scd
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/quarks/!svn/ver/626/cxaudio/Instr/kiks.scd
+END
+stereo.scd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/stereo.scd
+END
+sampler.scd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/quarks/!svn/ver/1857/cxaudio/Instr/sampler.scd
+END
+combos2.scd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/quarks/!svn/ver/431/cxaudio/Instr/combos2.scd
+END

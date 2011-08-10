@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/quarks/!svn/ver/1334/dewdrop_lib/ddwCommon/Misc
+END
+Collection extensions.sc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/quarks/!svn/ver/1334/dewdrop_lib/ddwCommon/Misc/Collection%20extensions.sc
+END
+debug-TempoClock-dumpQueue.sc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/quarks/!svn/ver/132/dewdrop_lib/ddwCommon/Misc/debug-TempoClock-dumpQueue.sc
+END
+FxPatch.sc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/quarks/!svn/ver/611/dewdrop_lib/ddwCommon/Misc/FxPatch.sc
+END
+NumericRange.sc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/quarks/!svn/ver/359/dewdrop_lib/ddwCommon/Misc/NumericRange.sc
+END
+Server-queryAllBuffers.sc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/quarks/!svn/ver/910/dewdrop_lib/ddwCommon/Misc/Server-queryAllBuffers.sc
+END
+Class-cheatsheet.sc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/quarks/!svn/ver/132/dewdrop_lib/ddwCommon/Misc/Class-cheatsheet.sc
+END
+NamedRef.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/354/dewdrop_lib/ddwCommon/Misc/NamedRef.sc
+END
+asPattern.sc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/quarks/!svn/ver/132/dewdrop_lib/ddwCommon/Misc/asPattern.sc
+END
+BufferQueryQueue.sc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/quarks/!svn/ver/1029/dewdrop_lib/ddwCommon/Misc/BufferQueryQueue.sc
+END
+KrBusWatcher.sc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/quarks/!svn/ver/973/dewdrop_lib/ddwCommon/Misc/KrBusWatcher.sc
+END
+Object-asEditString.sc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/quarks/!svn/ver/354/dewdrop_lib/ddwCommon/Misc/Object-asEditString.sc
+END
+Buffer-updateInfo.sc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/quarks/!svn/ver/132/dewdrop_lib/ddwCommon/Misc/Buffer-updateInfo.sc
+END
+ModalSpec.sc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/quarks/!svn/ver/1304/dewdrop_lib/ddwCommon/Misc/ModalSpec.sc
+END

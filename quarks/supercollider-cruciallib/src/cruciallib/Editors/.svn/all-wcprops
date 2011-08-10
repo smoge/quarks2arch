@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/quarks/!svn/ver/1853/cruciallib/Editors
+END
+EnvEditor.sc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/quarks/!svn/ver/1436/cruciallib/Editors/EnvEditor.sc
+END
+NumberEditor.sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/1853/cruciallib/Editors/NumberEditor.sc
+END
+EnvEditorGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/1436/cruciallib/Editors/EnvEditorGui.sc
+END
+NumberEditorGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/quarks/!svn/ver/1853/cruciallib/Editors/NumberEditorGui.sc
+END

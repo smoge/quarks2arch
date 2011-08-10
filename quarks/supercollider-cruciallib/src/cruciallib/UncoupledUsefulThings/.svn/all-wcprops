@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/quarks/!svn/ver/1790/cruciallib/UncoupledUsefulThings
+END
+ZArchive.sc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/quarks/!svn/ver/1761/cruciallib/UncoupledUsefulThings/ZArchive.sc
+END
+Def.sc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/Def.sc
+END
+PlayPathButton.sc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/PlayPathButton.sc
+END
+PrettyPrintStream.sc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/PrettyPrintStream.sc
+END
+AudioHelpers.sc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/quarks/!svn/ver/1601/cruciallib/UncoupledUsefulThings/AudioHelpers.sc
+END
+Constraint.sc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/Constraint.sc
+END
+KeyCodeResponder.sc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/quarks/!svn/ver/1762/cruciallib/UncoupledUsefulThings/KeyCodeResponder.sc
+END
+UnicodeResponder.sc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/quarks/!svn/ver/1762/cruciallib/UncoupledUsefulThings/UnicodeResponder.sc
+END
+zArchiveSupport.sc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/zArchiveSupport.sc
+END
+ModalFreqUGen.sc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/ModalFreqUGen.sc
+END
+MultiChannelRecorder.sc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/quarks/!svn/ver/1790/cruciallib/UncoupledUsefulThings/MultiChannelRecorder.sc
+END
+KeyCodeResponderGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/quarks/!svn/ver/1436/cruciallib/UncoupledUsefulThings/KeyCodeResponderGui.sc
+END

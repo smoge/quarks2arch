@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/quarks/!svn/ver/1118/NetLib/classes
+END
+CollectorGui.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/289/NetLib/classes/CollectorGui.sc
+END
+extShutdown.sc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/289/NetLib/classes/extShutdown.sc
+END
+extStringRand.sc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/289/NetLib/classes/extStringRand.sc
+END
+ClockProxy.sc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/quarks/!svn/ver/289/NetLib/classes/ClockProxy.sc
+END
+Hubs.sc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/quarks/!svn/ver/836/NetLib/classes/Hubs.sc
+END
+SimpleCollective.sc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/quarks/!svn/ver/289/NetLib/classes/SimpleCollective.sc
+END
+extGuiNetLib.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/289/NetLib/classes/extGuiNetLib.sc
+END
+OSCtree.sc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/quarks/!svn/ver/289/NetLib/classes/OSCtree.sc
+END
+NamedNetAddr.sc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/quarks/!svn/ver/836/NetLib/classes/NamedNetAddr.sc
+END
+Participation.sc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/quarks/!svn/ver/836/NetLib/classes/Participation.sc
+END
+extStringCleaning.sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/quarks/!svn/ver/836/NetLib/classes/extStringCleaning.sc
+END
+extNetwork.sc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/quarks/!svn/ver/1118/NetLib/classes/extNetwork.sc
+END
