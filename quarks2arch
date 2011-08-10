@@ -1,0 +1,74 @@
+#! /usr/bin/env sclang
+
+/*******************************************************************
+	file: quarks2arch
+	creates a folder of Arch buildscripts from a Quarks repo
+
+	adapt the variables packager, quarksDir and buildscriptDir
+
+	usage from terminal:
+
+   	    ./quarks2arch
+
+********************************************************************/
+
+
+fork {
+
+    var packager,quarksDir, buildscriptsDir, fileArray, quarksArray;
+    var protoPath, protoFile, protoString;
+
+	// =====================================================================
+
+    packager = "# Maintainer: Bernardo Barros <bernardobarros@NOSPAM.gmail.com>";
+    quarksDir = "~/src/quarks/"; // <--- quarks folder
+    buildscriptsDir = "~/build/buildscripts/quarks/"; // <--- PKGBUILD destination
+
+	// =====================================================================
+
+    fileArray = (quarksDir ++ "DIRECTORY/*.quark").pathMatch;
+    protoPath = "~/workspace/quarks2arch/PKGBUILD-quark.proto".standardizePath;
+    protoFile = File(protoPath,"r");
+    protoString = protoFile.readAllString;
+    protoFile.close;
+
+    quarksArray = fileArray.collect { |i|
+        Quark.fromFile(i)
+    };
+
+    quarksArray.do { |i|
+
+        var thisPkgname,thisPkgdesc,thisFolder, thisPKGBUILD,
+        thisPath, thisDep, thisPkgPath;
+
+        thisPkgname = i.name.spacesToCaps.toLower;
+		thisPkgPath = i.path;
+        thisPkgdesc = "SuperCollider quark: " ++ i.summary ++ " Author: " ++ i.author ++ ".";
+        thisFolder = buildscriptsDir ++ "supercollider-" ++ thisPkgname;
+        ("mkdir -p " ++ thisFolder).unixCmd;
+        thisPath = thisFolder ++ "/PKGBUILD";
+        thisPKGBUILD = File(thisPath.standardizePath, "w");
+        thisPKGBUILD.write(packager ++ "\n\n");
+        thisPKGBUILD.write("pkgname=supercollider-" ++ thisPkgname.spacesToCaps.toLower ++ "\n");
+        thisPKGBUILD.write('pkgdesc="' ++ thisPkgdesc ++ '"' ++ "\n");
+        thisPKGBUILD.write("_quark=" ++ '"' ++ i.name ++ '"' ++ "\n");
+		thisPKGBUILD.write("_path=" ++ i.path ++ "\n");
+
+        if(i.dependencies.size > 0) {
+            thisDep = "depends=('supercollider'";
+            i.dependencies.do { |j|
+                thisDep = thisDep ++ " 'supercollider-" ++ j.name.spacesToCaps.toLower ++
+                "'" ;
+            };
+            thisDep = thisDep ++ ")"
+
+        } {
+            thisDep = "depends=('supercollider')"
+        };
+
+        thisPKGBUILD.write(thisDep ++ "\n");
+        thisPKGBUILD.write(protoString);
+        thisPKGBUILD.close;
+    };
+    0.exit;
+}
