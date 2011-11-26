@@ -24,8 +24,8 @@ build() {
 
 package() {
   cd "${srcdir}/${_quark}"
-  mkdir -p "${pkgdir}/usr/share/SuperCollider/Extentions/${_quark}"
-  cp -r $srcdir/${_quark}/*  "${pkgdir}/usr/share/SuperCollider/Extentions/${_quark}"
+  mkdir -p "${pkgdir}/usr/share/SuperCollider/Extensions/${_quark}"
+  cp -r $srcdir/${_quark}/*  "${pkgdir}/usr/share/SuperCollider/Extensions/${_quark}"
 }
 
 
